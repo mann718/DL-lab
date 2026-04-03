@@ -1,4 +1,4 @@
-# Assignment Title: Object Detection using Deep Learning
+# Assignment Title: Object Detection Evolution: From R-CNN to YOLO
 
 **Name:** Manmeet Patel  
 **ID:** 202511046
